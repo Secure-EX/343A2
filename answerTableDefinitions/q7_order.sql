@@ -1,0 +1,4 @@
+SET SEARCH_PATH TO parlgov;
+SELECT *
+FROM q7
+ORDER BY partyID;
